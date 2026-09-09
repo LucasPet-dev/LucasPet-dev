@@ -6,6 +6,12 @@
 
 ###
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="400" width="600" src="evolucaominha.png"  />
+</div>
+
+###
+
 <h2 data-importer="text" align="left">This is me 👌​</h2>
 
 ###
@@ -72,10 +78,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="evolucaominha.png"  />
-</div>
-
-###
