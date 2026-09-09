@@ -2,7 +2,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">My name is Lucas Petito and I'm a Full Stack .NET Developer, from Cabo Frio, RJ, Brazil ​​🇧🇷</h4>
+<h4 data-importer="text" align="center">My name is Lucas Petito and I'm a Full Stack .NET Developer, from Cabo Frio, RJ, Brazil ​​🇧🇷</h4>
 
 ###
 
